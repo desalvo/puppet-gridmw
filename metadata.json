@@ -1,0 +1,14 @@
+{
+  "name": "desalvo-gridmw",
+  "version": "0.1.0",
+  "author": "desalvo",
+  "summary": "Puppet module to install grid middleware elements",
+  "license": "Apache 2.0",
+  "source": "https://github.com/desalvo/puppet-gridmw",
+  "issues_url": "https://github.com/desalvo/puppet-gridmw/issues",
+  "project_page": "https://github.com/desalvo/puppet-gridmw",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
